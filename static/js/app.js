@@ -1,5 +1,5 @@
 //Define Url
-const url = "../../samples.json"
+const url = "samples.json"
 
 var sample_values;
 var otu_ids;
