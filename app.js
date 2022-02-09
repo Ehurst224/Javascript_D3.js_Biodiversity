@@ -90,7 +90,7 @@ function plotting_bar_bubble(){
 
 d3.select("#selDataset").on("change", testsubjectid);
 
-const path = "../../samples.json";
+const path = "samples.json";
 console.log(path)
 var otu_ids;
 function testsubjectid() {
