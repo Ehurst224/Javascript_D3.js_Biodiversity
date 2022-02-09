@@ -154,4 +154,4 @@ function update_plots(subjectid){
 
   })
 } 
-initialization()
+
