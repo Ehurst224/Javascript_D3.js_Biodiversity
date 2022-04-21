@@ -4,5 +4,4 @@ This project built an interactive dashboard to explore the Belly Button Biodiver
 
 This interactive dahsboard allows you to pick a test subject ID number from the dropdown. It updates information about that test subject's ID, ethnicity, gender, age, location, bbtype, and wfreq.
 
-![Dashboard for subject ID number 940](http://url/to/Dashboard.png)
-https://github.com/[Ehurst224e]/[Javascript_D3.js_Biodiversity]/blob/[main]/Dashboard.png?raw=true
+![Screenshot (117)](https://user-images.githubusercontent.com/89754154/164562980-6057f572-dce4-4b02-a25c-99a03b224d9d.png)
